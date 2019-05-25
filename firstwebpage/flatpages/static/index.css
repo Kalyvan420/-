@@ -1,0 +1,27 @@
+body { 
+background: #ffff00; 
+font-family: Tahoma, Arial, sans-serif; 
+color: #333; 
+} 
+table { 
+border-collapse: collapse; 
+}
+h1 {
+font-family: serif;
+} 
+p, h4 { 
+font-size: 20px; 
+margin-bottom: 0; 
+} 
+h4 { 
+font-size: 14px; 
+} 
+ul, ol { 
+margin: 0; 
+} 
+table tr td { 
+padding: 5px; 
+} 
+table { 
+width: 100%; 
+}
